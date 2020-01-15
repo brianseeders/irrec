@@ -7,3 +7,4 @@ Composable regular expressions with a functional API and implementation. Read mo
 
 [irrec website]: https://ceedubs.github.io/irrec
 
+test
